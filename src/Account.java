@@ -1,6 +1,7 @@
 // Base class
 // Abstract
-
+// Base class
+// Abstract class
 public abstract class Account {
 
     // account number

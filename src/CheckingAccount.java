@@ -16,6 +16,7 @@ public class CheckingAccount extends Account{
     }
 
     // Deposit amount as long as value is > 0
+    @Override
     public void deposit(double amount) {
         if (amount > 0){
             balance = amount;
